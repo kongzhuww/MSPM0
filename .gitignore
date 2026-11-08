@@ -31,3 +31,7 @@ cmake_install.cmake
 
 # clang-tidy / clang-format
 compile_commands.json
+
+# Local tooling
+.codegraph/
+
